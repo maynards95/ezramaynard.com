@@ -494,6 +494,8 @@ input[type='checkbox'] {
 .header .h1-large {
 	margin-bottom: 1.75rem;
 	color: #ffffff;
+	align-items: center;
+
 }
 
 .header .btn-solid-lg:hover {
